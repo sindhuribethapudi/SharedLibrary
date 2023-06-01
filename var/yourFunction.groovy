@@ -1,4 +1,4 @@
-#!/usr/bin/env groovy
-def call(String name = 'human') {
-  echo "Hello, ${name}."
+def call() {
+  // Your shared function implementation goes here
+  echo "Hello from your shared function!"
 }
